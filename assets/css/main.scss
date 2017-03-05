@@ -1,0 +1,49 @@
+---
+
+---
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 8px;
+  max-width: 100%;
+}
+
+#page {
+  max-width: 500px;
+  margin: 15px;
+}
+
+h1, h2 {
+  color: #CC0921;
+}
+
+li {
+  list-style-type: lower-greek;
+}
+
+a {
+  color: #CC0921;
+  text-decoration: none;
+}
+
+a:hover {
+  border-bottom: 5px solid #CC0921;
+}
+
+.rss-subscribe {
+  width: 70%;
+  display: flex;
+  align-items: flex-end;
+
+  img {
+    align-self: baseline;
+  }
+
+  a {
+    margin-bottom: 0;
+
+  }
+}
