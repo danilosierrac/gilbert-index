@@ -49,7 +49,7 @@ Long story short, you're grossly underestimating how much you're paying for your
 
 * If you sell your house for more than you paid for it, bravo. Then it's a good investment.
 
-* If you sell your house for less than you paid, it's a bad investment. Financially-speaking. Maybe the memories and other treasures made everything worth it.
+* If you sell your house for less than you paid, it's a bad investment. Financially-speaking. Maybe the memories and other treasures make everything worth it.
 
 * Or if you never plan to sell it, you're effectively a renter. And in which case you might as well actually rent and instead invest the debt payments in a low cost index fund you would have made on a mortgaged house.
 
