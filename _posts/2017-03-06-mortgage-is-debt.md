@@ -25,7 +25,7 @@ We have confused mortgaging with buying.
 
 Everyone knows banks create unnecessarily complicated terms in order to create distance between you and what the term actually means. Say hi to Derivatives. Credit default swaps. Tranches. And other gobbledygook.
 
-Banks do this because they don't want you focused on what the term actually means. Because if you were focused on its true meaning, you’d be less likely to buy the product the bank is pushing. It is an attempt to channel your attention. If you understand anything about sales, you’ll recognize this as standard sales technique. In sales, if you're good at sales, you're always trying to channel attention to where you want it.
+Banks do this because they don't want you focused on what the term actually means. Because if you were focused on its honest meaning, you’d be less likely to buy the product the bank is pushing. It is an attempt to channel your attention. If you understand anything about sales, you’ll recognize this as standard sales technique. In sales, if you're good at sales, you're always trying to channel attention to where you want it.
 
 The banks don't get credit for inventing the word mortgage. For that, you can thank [Law French and medieval English lawyers](https://en.wikipedia.org/wiki/Mortgage_loan) who re-purposed the term. But the banks do get credit for embracing and running with the linguistic deception that is the word mortgage. And channeling your attention away from what mortgage actually means:
 
@@ -41,7 +41,7 @@ In many cases, you're much better off renting and investing in low cost index fu
 
 It’s important to remember a mortgage is nothing more than debt because it might help you make better decisions if or when you do want to invest in real estate.
 
-When you take out a mortgage, meaning when you take on debt, in order to arrive at the true price you're going to pay for your new home, you have to do math. You have to take all the mortgage payments including interest (of which there will be a lot) throughout the term of the loan and discount those payments to present day value. And then you add all that to your down payment. This is called the Net Present Value (NPV). You have to find the NPV to know what the actual price tag for your property is.
+When you take out a mortgage, meaning when you take on debt, in order to arrive at the true price you're going to pay for your new home, you have to do math. You have to take all the mortgage payments including interest (of which there will be a lot) throughout the term of the loan and discount those payments to present day value. And then you add all that to your down payment. This is called Discounted Cash Flow (DCF). You have to do a DCF analysis to learn what the actual price tag for your property is.
 
 Or if this kind of number crunching is not your thing, you can refer to the NYTimes' nifty [Is It Better to Rent or Buy?](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html) calculator that helps you determine which is the better deal.
 
