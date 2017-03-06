@@ -47,7 +47,7 @@ Or if this kind of number crunching is not your thing, you can refer to the NYTi
 
 Long story short, you're grossly underestimating how much you're paying for your house. Because you're not considering the Present Value of all mortgage payments (principal plus, importantly, interest). And yes, I'm aware real estate is an asset. But it’s only equity if you’re not underwater and in debt! At the end of the day the following is all that matters:
 
-* If you sell your house for more than you paid for it, bravo. Then it was a good investment.
+* If you sell your house for more than you paid for it, bravo. Then it's a good investment.
 
 * If you sell your house for less than you paid, it's a bad investment. Financially-speaking. Maybe the memories and other treasures made everything worth it.
 
