@@ -51,7 +51,7 @@ Long story short, you're grossly underestimating how much you're paying for your
 
 * If you sell your house for less than you paid, it's a bad investment. Financially-speaking. Maybe the memories and other treasures make everything worth it.
 
-* Or if you never plan to sell it, you're effectively a renter. And in which case you might as well actually rent and instead invest the debt payments in a low cost index fund you would have made on a mortgaged house.
+* Or if you never plan to sell it, you're effectively a renter. And in which case you might as well actually rent and instead invest the debt payments in a low cost index fund you would have made on a mortgaged house. And perhaps buy a home outright with all your savings later on.
 
 * Or if you never plan to sell and you don't want to be a renter, then save up enough to money to build a house with your two bare hands and some help. This is a lot cheaper than mortgaging. And it’ll make you a more skilled and interesting person, and you’ll be a real homeowner if that’s what you’re after, not a fake mortgaged one. Rent or build yourself.
 
