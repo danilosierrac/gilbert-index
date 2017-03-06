@@ -53,7 +53,7 @@ Long story short, you're grossly underestimating how much you're paying for your
 
 * Or if you never plan to sell it, you're effectively a renter. And in which case you might as well actually rent and instead invest the debt payments in a low cost index fund you would have made on a mortgaged house.
 
-* Or if you never plan to sell and you don't want to be a renter, then save up enough to money to build a house with your two bare hands and some help. This is a lot cheaper than mortgaging. And it’ll make you a more skilled and interesting person, and you’ll be a real a homeowner, not a fake mortgaged one, if that’s what you’re after.  Rent or build yourself.
+* Or if you never plan to sell and you don't want to be a renter, then save up enough to money to build a house with your two bare hands and some help. This is a lot cheaper than mortgaging. And it’ll make you a more skilled and interesting person, and you’ll be a real a homeowner if that’s what you’re after, not a fake mortgaged one. Rent or build yourself.
 
 I understand renting vs buying is not black and white. If you’re worried about making the “right” financial decision when it comes to where you want to sleep at night, you need to look at numbers. The NYTimes [Is It Better to Rent or Buy?](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html) is a great tool for cutting through the clutter of the rent vs buy debate.  
 
