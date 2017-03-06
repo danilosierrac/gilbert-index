@@ -17,6 +17,8 @@ Or did he take out a mortgage?
 
 You can bet your house he took out a mortgage. And that got me thinking.
 
+We have confused mortgaging with buying. 
+
 **If you take out a mortgage, that does not mean you buy a house. It means you take out debt. Full stop.**
 
 <hr>
