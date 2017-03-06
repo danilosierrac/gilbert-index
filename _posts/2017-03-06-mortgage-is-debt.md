@@ -41,7 +41,7 @@ In many cases, you're much better off renting and investing in low cost index fu
 
 It’s important to remember a mortgage is nothing more than debt because it might help you make better decisions if or when you do want to invest in real estate.
 
-When you take out a mortgage, meaning when you take on debt, in order to arrive at the true price you're going to pay for your new home, you have to do math. You have to take all the mortgage payments including interest (of which there will be a lot) throughout the term of the loan and discount those payments to present day value. And then you add all that to your down payment. This is called [Discounted Cash Flow (DCF)](http://www.investopedia.com/terms/d/dcf.asp). You have to do a DCF analysis to learn what the actual price tag for your property is.
+When you take out a mortgage, meaning when you take on debt, in order to arrive at the true price you're going to pay for your new home, you have to do math. You have to take all the mortgage payments including interest (of which there will be a lot) throughout the term of the loan and discount those payments to present day value. And then you add all that to your down payment. This is called [Present Value](http://www.investopedia.com/terms/p/presentvalue.asp). You have to do a PV analysis to learn what the actual price tag for your property is.
 
 Or if this kind of number crunching is not your thing, you can refer to the NYTimes' nifty [Is It Better to Rent or Buy?](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html) calculator that helps you determine which is the better deal.
 
