@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mortgage is Debt"
-date:   2017-03-05 01:43:39 -0500
+date:   2017-03-06 01:43:39 -0500
 ---
 I was talking to an old friend for the first time in a long time the other day. We dove right into a lively banter and starting getting caught up. The conversation moved on to our families, and I asked my friend how his brother was doing. And he says (paraphrased):
 
