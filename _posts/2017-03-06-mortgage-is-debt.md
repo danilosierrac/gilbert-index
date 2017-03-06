@@ -17,7 +17,7 @@ Or did he take out a mortgage?
 
 You can bet your house he took out a mortgage. And that got me thinking.
 
-We have confused mortgaging with buying. 
+We have confused mortgaging with buying.
 
 **If you take out a mortgage, that does not mean you buy a house. It means you take out debt. Full stop.**
 
@@ -27,7 +27,7 @@ Everyone knows banks create unnecessarily complicated terms in order to create d
 
 Banks do this because they don't want you focused on what the term actually means. Because if you were focused on its true meaning, you’d be less likely to buy the product the bank is pushing. It is an attempt to channel your attention. If you understand anything about sales, you’ll recognize this as standard sales technique. In sales, if you're good at sales, you're always trying to channel attention to where you want it.
 
-The banks don't get credit for inventing the word mortgage. You can thank [medieval English lawyers](https://en.wikipedia.org/wiki/Mortgage_loan) for that. But the banks do get credit for embracing and running with the linguistic deception that is the word mortgage. And channeling your attention away from what mortgage actually means:
+The banks don't get credit for inventing the word mortgage. For that, you can thank [Law French and medieval English lawyers](https://en.wikipedia.org/wiki/Mortgage_loan) who re-purposed the term. But the banks do get credit for embracing and running with the linguistic deception that is the word mortgage. And channeling your attention away from what mortgage actually means:
 
 Debt.
 
