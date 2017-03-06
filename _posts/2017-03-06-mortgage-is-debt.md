@@ -43,7 +43,7 @@ It’s important to remember a mortgage is nothing more than debt because it mig
 
 When you take out a mortgage, meaning when you take on debt, in order to arrive at the true price you're going to pay for your new home, you have to do math. You have to take all the mortgage payments including interest (of which there will be a lot) throughout the term of the loan and discount those payments to present day value. And then you add all that to your down payment. This is called the Net Present Value (NPV). You have to find the NPV to know what the actual price tag for your property is.
 
-Or this kind of number crunching is not your thing, you can refer to the NYTimes' nifty [Is It Better to Rent or Buy?](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html) calculator that helps you determine which is the better deal.
+Or if this kind of number crunching is not your thing, you can refer to the NYTimes' nifty [Is It Better to Rent or Buy?](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html) calculator that helps you determine which is the better deal.
 
 Long story short, you're grossly underestimating how much you're paying for your house. Because you're not considering the Present Value of all mortgage payments (principal plus, importantly, interest). And yes, I'm aware real estate is an asset. But it’s only equity if you’re not underwater and in debt! At the end of the day the following is all that matters:
 
