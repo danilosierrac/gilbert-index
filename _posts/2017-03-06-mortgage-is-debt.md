@@ -39,7 +39,7 @@ We've been hypnotized, literally, into thinking 'mortgage’ is as benign as Dor
 
 In many cases, you're much better off renting and investing in low cost index funds instead of making interest on interest on interest payments for a house. And the dividends of, say, the very low cost Vanguard Total Stock Market Index Fund flow like Willy Wonka’s chocolate river. Earn dividends instead of making debt payments.
 
-It’s important to remember a mortgage is nothing more than debt because it might help you make better decisions if and when you do want to invest in real estate.
+It’s important to remember a mortgage is nothing more than debt because it might help you make better decisions if or when you do want to invest in real estate.
 
 When you take out a mortgage, meaning when you take on debt, in order to arrive at the true price you're going to pay for your new home, you have to do math. You have to take all the mortgage payments including interest (of which there will be a lot) throughout the term of the loan and discount those payments to present day value. And then you add all that to your down payment. This is called the Net Present Value (NPV). You have to find the NPV to know what the actual price tag for your property is.
 
