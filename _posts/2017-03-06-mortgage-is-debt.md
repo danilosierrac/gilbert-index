@@ -43,7 +43,7 @@ It’s important to remember a mortgage is nothing more than debt because it mig
 
 When you take out a mortgage, meaning when you take on debt, in order to arrive at the true price you're going to pay for your new home, you have to do math. You have to take all the mortgage payments including interest (of which there will be a lot) throughout the term of the loan and discount those payments to present day value. And then you add all that to your down payment. This is called [Present Value](http://www.investopedia.com/terms/p/presentvalue.asp). You have to do a PV analysis to learn what the actual price tag for your property is.
 
-Or if this kind of number crunching is not your thing, you can refer to the NYTimes' nifty [Is It Better to Rent or Buy?](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html) calculator that helps you determine which is the better deal.
+Or if this kind of number crunching is not your thing, you can refer to the NYTimes' nifty [Is It Better to Rent or Buy?](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html) calculator that helps you determine which is the better deal. A better name for the calculator would be Is It Better to Rent or *Mortgage*?
 
 Long story short, you're grossly underestimating how much you're paying for your house. Because you're not considering the Present Value of all mortgage payments (principal plus, importantly, interest). And yes, I'm aware real estate is an asset. But it’s only equity if you’re not underwater and in debt! At the end of the day the following is all that matters:
 
@@ -55,6 +55,6 @@ Long story short, you're grossly underestimating how much you're paying for your
 
 * Or if you never plan to sell and you don't want to be a renter, then save up enough to money to build a house with your two bare hands and some help. This is a lot cheaper than mortgaging. And it’ll make you a more skilled and interesting person, and you’ll be a real homeowner if that’s what you’re after, not a fake mortgaged one. Rent or build yourself.
 
-I understand renting vs mortgaging is not black and white. If you’re worried about making the “right” financial decision when it comes to where you want to sleep at night, you need to look at numbers. The NYTimes [Is It Better to Rent or Buy?](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html) is a great tool for cutting through the clutter of the rent vs mortgage debate.  
+I understand renting vs mortgaging is not black and white. If you’re worried about making the “right” financial decision when it comes to where you want to sleep at night, you need to look at numbers. The NYTimes [rent vs mortgage](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html) is a great tool for cutting through the clutter of the rent vs mortgage debate.  
 
 I'll leave you with the following: those medieval English lawyers. Remember them? They re-purposed the word mortgage from the archaic language [Law French where mortgage meant 'death pledge.’](https://en.wikipedia.org/wiki/Mortgage_loan) This strikes me as a most accurate understanding of mortgage. When you mortgage a house, you don't buy it. You go into debt, which means you make a death pledge.
