@@ -3,7 +3,7 @@ layout: post
 title:  "Money Athletes"
 date:   2017-03-07
 ---
-My name is Gilbert and I’m an money athlete.
+My name is Gilbert and I’m a money athlete.
 
 Which means I’m skilled with money. I’m a money athlete because although I come from humble beginnings, I’ve reached financial independence before the age of 30 thanks to frugality, saving 75% of my earnings, hard work, and the compounding returns of index funds.
 
