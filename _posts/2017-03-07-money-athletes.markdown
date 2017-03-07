@@ -23,7 +23,7 @@ My point is, there are financial “professionals” who don’t know their prof
 
 If I were to guess, the thing that shmendricks have most in common is that they’re not financially independent themselves. And this is the biggest tell they're not equipped to give you money advice. They *need* to work their jobs and they *need* to sell you and they *need* your money because they wouldn’t be able to support their spending otherwise.
 
-They're trying to survive, which is entirely understandable. We're all trying to survive. But shmendricks are rabid animals with debts and cars and large spending budgets trying to survive. And yet try to convince you that they can help you with your finances. How can you trust a rabid animal who needs your money to give you money advice?
+They're trying to survive, which is entirely understandable. We're all trying to survive. But shmendricks are rabid animals with debts and cars and large spending budgets trying to survive. And yet trying to convince you that they can help you with your finances. How can you trust a rabid animal who needs your money to give you money advice?
 
 Imagine the irony of someone who is 1) bogged down by mortgage debt, 2) drives to work and 3) doesn’t dictate their own schedule wanting to give you financial advice.
 
