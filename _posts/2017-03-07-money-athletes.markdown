@@ -25,7 +25,7 @@ If I were to guess, the thing that shmendricks have most in common is that they�
 
 They're trying to survive, which is entirely understandable. We're all trying to survive. But shmendricks are rabid animals with debts and cars and large spending budgets trying to survive. And yet try to convince you that they can help you with your finances. How can you trust a rabid animal who needs your money to give you money advice?
 
-Imagine the irony of someone who is 1) bogged down by a mortgage debt, 2) drives to work and 3) doesn’t dictate their own schedule wanting to give you financial advice.
+Imagine the irony of someone who is 1) bogged down by mortgage debt, 2) drives to work and 3) doesn’t dictate their own schedule wanting to give you financial advice.
 
 That’s what we call chutzpah.
 
