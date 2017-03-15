@@ -54,7 +54,7 @@ Because the way you win the compounding game is to keep investment costs low and
 
 Any time you have a situation where money grows on money, like dividends growing on dividends or interest growing on interest, you get compounding.
 
-And any time you have a situation where money grows on money over long periods of time, you get exponential growth—which is what gives compounding its power and what will make your money mushroom into a giant nest egg.
+And any time you have a situation where money grows on money over long periods of time, you get **exponential growth**—which is what gives compounding its power and what will make your money mushroom into a giant nest egg.
 
 Imagine the peach in James and the Giant Peach. It starts out as a small, normal-sized, tasty peach. And then grows wildly into a magical Giant Peach. You want your money to grow wildly into a magical Giant Peach. And it can do so with the help of sweet compounding.
 
