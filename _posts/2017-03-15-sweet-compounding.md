@@ -65,3 +65,7 @@ If you want to learn more about compounding, here are two good videos:
 * Basic: [How to Teach Kids Compound Interest](https://www.youtube.com/watch?v=evDHk7g8SOM&list=PL7CecPdjU3lxEmzuQyQsoLdpgVEuozd5t&index=7)
 
 * Advanced: Professor Gautam Kaul of the University of Michigan explains [compounding](https://www.youtube.com/watch?v=haqlnItechw&index=16&list=PL07D40483B1BE4B4C)
+
+Notes:
+
+All investing is subject to risk, including the possible loss of the money you invest.
