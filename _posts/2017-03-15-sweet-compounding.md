@@ -22,7 +22,7 @@ And then your financial advisor is no longer needed, barring perhaps specific us
 
 You don’t hear much about compounding in your mainstream financial newspapers because mainstream financial newspapers are generally more useless than geese poop.
 
-But just because you don’t hear about compounding in the personal finance sections of the New York Times or Wall Street Journal doesn’t mean it’s not useful to financial independence. It’s dramatically useful.
+But just because you don’t hear about compounding in the personal finance sections of the New York Times or Wall Street Journal doesn’t mean it’s not useful to financial independence. It’s insanely useful.
 
 The two most useful tools to help you reach financial independence are:
 
