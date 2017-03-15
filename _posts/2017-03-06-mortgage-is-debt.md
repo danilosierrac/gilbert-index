@@ -58,3 +58,7 @@ Long story short, you're grossly underestimating how much you're paying for your
 I understand renting vs mortgaging is not black and white. If you’re worried about making the “right” financial decision when it comes to where you sleep at night, you need to look at numbers. The NYTimes [rent vs mortgage calculator](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html) is a great tool for cutting through the clutter of the rent vs mortgage debate.  
 
 I'll leave you with the following: those medieval English lawyers. Remember them? They re-purposed the word mortgage from the archaic language [Law French where mortgage originally meant 'death pledge.’](https://en.wikipedia.org/wiki/Mortgage_loan) This strikes me as a most accurate understanding of mortgage. When you mortgage a house, you don't buy it. You go into debt, which means you make a death pledge.
+
+Notes:
+
+All investing is subject to risk, including the possible loss of the money you invest.
