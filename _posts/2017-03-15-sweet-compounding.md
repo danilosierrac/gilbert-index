@@ -20,7 +20,7 @@ If your financial advisor is any good, he or she will tell you:
 
 And then your financial advisor is no longer needed, barring perhaps specific use cases, because you have the Golden Ticket to financial freedom in your hands: **compounding**.
 
-You don’t hear much about compounding in your mainstream financial newspapers because mainstream financial newspapers are generally more useless than bird poop.
+You don’t hear much about compounding in your mainstream financial newspapers because mainstream financial newspapers are generally more useless than geese poop.
 
 But just because you don’t hear about compounding in the personal finance sections of the New York Times or Wall Street Journal doesn’t mean it’s not useful to financial independence. It’s dramatically useful.
 
