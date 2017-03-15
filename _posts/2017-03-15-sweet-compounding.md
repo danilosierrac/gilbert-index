@@ -45,8 +45,8 @@ You will take the time to study compounding, learn compounding, and become one w
 
 And you will sooner or later find yourself reading about two of the most effective ways to take advantage of compounding:
 
-* The dividends of stock index funds
-* And the interest of bond index funds (known as coupon payments)
+* The **dividends** of stock index funds
+* And the **interest** of bond index funds (known as coupon payments)
 
 And when put together in a smart portfolio, like that of a [low-cost three fund portfolio](https://www.bogleheads.org/wiki/Three-fund_portfolio), and thoughtful asset allocation, you’re in great position to achieve financial freedom thanks to the power of compounding.
 
