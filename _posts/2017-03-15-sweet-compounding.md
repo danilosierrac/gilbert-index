@@ -35,7 +35,7 @@ And because compounding is the sweet elixir of profits.
 
 For example, how do you think banks make money? They make most of their money from your debt. Your *compounded* debt. Banks are only rich and powerful due to compounding!
 
-Banks make money from the interest you pay on credit cards, mortgages, auto loans, student loans. That is, from interest which compounds! You’re losing buckets of money in compounded interest payments to banks. And if banks find compounding profitable, you know there’s money in compounding.
+Banks make money from the interest you pay on credit cards, mortgages, student loans, among other debt products. And remember, this is interest that compounds! You’re losing buckets of money in compounded interest payments to banks. And if banks find compounding profitable, you know there’s money in compounding.
 
 The trick is, you want to flip the equation where you’re the one benefitting from compounding, and not getting destroyed by it.
 
