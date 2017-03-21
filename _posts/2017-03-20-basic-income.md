@@ -5,7 +5,7 @@ date:   2017-03-20
 ---
 Imagine you were to receive a direct deposit into your bank account for an extra $2,000 per month. And you receive this sum for no other reason than the good fortune of being a U.S. resident. What would your life be like?
 
-Would you create something? Would it give you more freedom? Would you invest it and save for retirement? Would it allow you to quit your job and start a business? Would it goes towards education? Would it go towards necessities like food or transportation? Would it help you raise your children?
+Would you create something? Would it give you more freedom? Would you invest it and save for retirement? Would it allow you to quit your job and start a business? Would it go towards education? Would it go towards necessities like food or transportation? Would it help you raise your children?
 
 Just imagine all the productive ways you could put an extra $2,000 to use.
 
