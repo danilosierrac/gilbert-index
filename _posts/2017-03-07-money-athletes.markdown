@@ -9,7 +9,7 @@ Which means I’m skilled with money. I’m a money athlete because although I c
 
 If you want to learn about money and financial independence, consult a money athlete. This only makes sense because a money athlete has mastered money and has acquired the necessary knowledge and habits.
 
-The problem is there is a gigantic mud pit of so-called “financial advisors” and “investment managers” and “financial planners” mudding the waters and claiming they can help with you with your money. And charging you fat fees. And often are the very people who know the least about money.
+The problem is there is a gigantic mud pit of so-called “financial advisors” and “investment managers” and “financial planners” mudding the waters and claiming they can help you with your money. And charging you fat fees. And often are the very people who know the least about money.
 
 I was once talking to an accountant at a wedding. We were having a beer at a standing table and got to talking about investing and I explained to this accountant that I’m an advocate of a simple ultra-low-cost passive index investing approach because it’s an efficient strategy to take advantage of the power of compounding. It's also the strategy [Warren Buffett advises](http://www.berkshirehathaway.com/letters/2016ltr.pdf). As well as that of the most important individual in American finance history, Vanguard founder [John Bogle](https://en.wikipedia.org/wiki/John_C._Bogle). And this accountant says to me, “I don’t know a whole lot about investing. I’m an accountant. But I would have to disagree with you on one thing regarding your investing approach. Which is, you want to find investments that pay dividends.”
 
