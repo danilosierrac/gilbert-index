@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mortgage is Debt"
-date:   2017-03-06 
+date:   2017-03-06
 ---
 I was talking to an old friend for the first time in a long time the other day. We dove right into a lively banter and starting getting caught up. The conversation moved on to our families, and I asked my friend how his brother was doing. And he says (paraphrased):
 
@@ -37,7 +37,7 @@ The word mortgage is ugly makeup for debt. A mortgage is debt. Punto.
 
 We've been hypnotized, literally, into thinking 'mortgage’ is as benign as Dora The Explorer. A mortgage is not benign. And it can be cancerous to your financial well-being if you’re not extremely careful in how you handle it because mortgage interest compounds and compounding debt is a prison sentence to never leaving the rat race. You will be stuck in jobs you don’t want if you're stuck paying off compounded debt. Debt is bleak.
 
-In many cases, you're much better off renting and investing in low cost index funds instead of making interest on interest on interest payments for a house. And the dividends of, say, the very low cost Vanguard Total Stock Market Index Fund flow like Willy Wonka’s chocolate river. Earn dividends instead of making debt payments.
+In many cases, you might be better off renting and investing and earning dividends and coupons in, say, low cost index funds instead of making interest-baked payments on a house.
 
 It’s important to remember a mortgage is nothing more than debt because it might help you make better decisions if or when you do want to invest in real estate.
 
