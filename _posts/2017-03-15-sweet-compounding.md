@@ -2,6 +2,7 @@
 layout: post
 title:  "Sweet Compounding"
 date:   2017-03-15
+permalink: /sweet-compounding/
 ---
 
 If there is one thing you can do today, right now, to improve your financial position, it is to understand **compounding**. And then find ways to take advantage of compounding.

@@ -2,6 +2,7 @@
 layout: post
 title:  "Money Athletes"
 date:   2017-03-07
+permalink: /money-athletes/
 ---
 My name is Gilbert and I’m a money athlete.
 
