@@ -19,7 +19,7 @@ If your financial advisor is any good, he or she will tell you:
 
 * And then when you’re out of debt, go make your money compound because compounding is how you build wealth.
 
-And then your financial advisor is no longer needed, barring perhaps specific use cases, because you have the Golden Ticket to financial freedom in your hands: **compounding**.
+And then you have the Golden Ticket to financial freedom in your hands: **compounding**.
 
 You don’t hear much about compounding in your mainstream financial newspapers because mainstream financial newspapers are generally more useless than geese poop.
 
