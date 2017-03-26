@@ -4,11 +4,11 @@ title:  "Mortgage is Debt"
 date:   2017-03-06
 permalink: /mortgage-is-debt/
 ---
-I was talking to an old friend for the first time in a long time the other day. We dove right into a lively banter and starting getting caught up. The conversation moved on to our families, and I asked my friend how his brother was doing. And he says (paraphrased):
+I'm talking to an old friend for the first time in a long time. We dive right into a lively banter and start getting caught up. The conversation moves on to our families, and I ask my friend how his brother is doing. And he says (paraphrased):
 
 “He’s doing great. He just bought a house. He's got a great job. He's doing really meaningful work. Things are going really well.”
 
-And I wondered, did he “buy” the house?
+And I wonder, did he “buy” the house?
 
 As in buy it.
 
@@ -16,7 +16,7 @@ As in exchange cash for a big wood structure.
 
 Or did he take out a mortgage?
 
-You can bet your house he took out a mortgage. And that got me thinking.
+You can bet your house he took out a mortgage. And that gets me thinking.
 
 We have confused mortgaging with buying.
 
