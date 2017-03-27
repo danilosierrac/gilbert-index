@@ -17,9 +17,7 @@ If your financial advisor is any good, he or she will tell you:
 
 * If you’re in debt, before you do anything [get out of it](http://www.mrmoneymustache.com/2012/04/18/news-flash-your-debt-is-an-emergency/) because debt is dirty, awful, smelly, stinky, rotten and will bury you alive and never let you see the light of financial freedom.
 
-* And then when you’re out of debt, go make your money compound because compounding is how you build wealth.
-
-And then you have the Golden Ticket to financial freedom in your hands: **compounding**.
+* And then when you’re out of debt, go make your money compound because compounding is how you build wealth. Compounding is the Golden Ticket to financial freedom.
 
 You don’t hear much about compounding in your mainstream financial newspapers because mainstream financial newspapers are generally more useless than geese poop.
 
@@ -49,7 +47,7 @@ And you will sooner or later find yourself reading about two of the most effecti
 * The **dividends** of stock index funds
 * And the **interest** of bond index funds (known as coupon payments)
 
-And when put together in a smart portfolio, like that of a [low-cost three fund portfolio](https://www.bogleheads.org/wiki/Three-fund_portfolio), and thoughtful asset allocation, you’re in great position to achieve financial freedom thanks to the power of compounding.
+And when put together in a thoughtful portfolio and asset allocation, you’re in great position to achieve financial freedom thanks to the power of compounding.
 
 Because the way you win the compounding game is to keep investment costs low and seek out investments that pay you dividends and interest. This is how your money compounds.
 
