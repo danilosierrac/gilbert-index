@@ -6,8 +6,8 @@
     Twitter</a>,
   <a href="https://www.facebook.com/dialog/feed?
     app_id=1334490096618223
-    &name={{ page.title }}
-    &caption={{ page.excerpt }}
+    &name={{ site.title}}: {{ page.title }}
+    &caption={{ page.excerpt | remove: '<p>' | remove: '</p>' }}
     &link={{ site.url }}{{ page.url }}">
     Facebook
   </a>
