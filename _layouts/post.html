@@ -14,12 +14,15 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-  <div>
-    <span>If you liked this article, you can share it on:</span>
+  <p>
+    <span>You might want to share this article because you can share it on:</span>
     <a href="https://twitter.com/share?
     url={{ page.url }}
     &text=Gilbert Index: {{ page.title }} By @gilbertginsberg">
-      Twitter
+      Twitter</a>,
+    <a href="#?">
+      Facebook
     </a>
+    </p>
   </div>
 </article>
