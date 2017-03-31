@@ -9,4 +9,5 @@ In addition to the Gilbert Index column, I teach and write about financial liter
 
 And I recently wrote about **The Time Value of Money**, which you can enjoy [here](https://www.wealthmeta.com/blog/the-time-value-of-money).
 
-[Wealth Meta](https://www.wealthmeta.com/)
+[Wealth Meta](https://www.wealthmeta.com/) is based in Portland, Oregon. And is a rare company in the personal finance world
+because they actually give you value—in the form of quality articles and financial calculators.
