@@ -63,3 +63,5 @@ I'll leave you with the following: those medieval English lawyers. Remember them
 Notes:
 
 All investing is subject to risk, including the possible loss of the money you invest.
+
+The information provided here is for educational purposes only and isn’t intended to be construed as legal or tax advice.
