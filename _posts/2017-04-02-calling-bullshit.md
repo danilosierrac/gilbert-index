@@ -27,6 +27,8 @@ And the learning objectives of Calling Bullshit in the Age of Big Finance would 
 
 * If a financial advisor tries to downplay the importance of investment costs on your overall portfolio return, you know to call bullshit.
 
+* If a financial product is advertised on TV, you know to call bullshit (except in rare cases).
+
 * If an investment manager tries to convince you his investment strategy can “beat the market,” you know to call bullshit.
 
 * If a banker tells you debt does not make your financial life amazingly more complicated, you know to call bullshit.
