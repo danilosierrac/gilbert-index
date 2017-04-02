@@ -9,7 +9,7 @@ Do you consider yourself a discerning person when it comes to the financial serv
 
 Whether you do or do not, we can always improve a skill. Which means, you might be interested in a make-believe course I’m not offering entitled “Calling Bullshit in the Age of Big Finance.” My fictitious course is inspired by a real course offered at the University of Washington named “[Calling Bullshit in the Age of Big Data](http://callingbullshit.org/index.html).”  
 
-The opening paragraph of “Calling Bullshit’s” course description (the real class) [reads](http://callingbullshit.org/index.html):
+The opening paragraph of Calling Bullshit’s course description (the real class) [reads](http://callingbullshit.org/index.html):
 
 > **The world is awash in bullshit**. Politicians are unconstrained by facts. Science is conducted by press release. Higher education rewards bullshit over analytic thought. Startup culture elevates bullshit to high art. Advertisers wink conspiratorially and invite us to join them in seeing through all the bullshit — and take advantage of our lowered guard to bombard us with bullshit of the second order. The majority of administrative activity, whether in private business or the public sphere, seems to be little more than a sophisticated exercise in the combinatorial reassembly of bullshit.
 
