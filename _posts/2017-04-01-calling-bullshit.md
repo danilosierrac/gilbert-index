@@ -7,13 +7,13 @@ permalink: /calling-bullshit/
 
 Do you consider yourself a discerning person when it comes to the financial services industry?
 
-Whether you do or do not, we can always improve a skill. Which means, you might be interested in a make-believe course I’m not offering entitled “Calling Bullshit in the Age of Big Finance.” My fictitious course is inspired by a real course offered at the University of Washington named “[Calling Bullshit in the Age of Big Data](http://callingbullshit.org/index.html).”  
+Whether you do or do not, we can always improve a skill. Which means, you might be interested in a make-believe course I’m not offering (but maybe someday will) entitled “Calling Bullshit in the Age of Big Finance.” My fictitious course is inspired by a real course offered at the University of Washington named “[Calling Bullshit in the Age of Big Data](http://callingbullshit.org/index.html).”  
 
 The opening paragraph of Calling Bullshit’s course description (the real class) [reads](http://callingbullshit.org/index.html):
 
 > **The world is awash in bullshit**. Politicians are unconstrained by facts. Science is conducted by press release. Higher education rewards bullshit over analytic thought. Startup culture elevates bullshit to high art. Advertisers wink conspiratorially and invite us to join them in seeing through all the bullshit — and take advantage of our lowered guard to bombard us with bullshit of the second order. The majority of administrative activity, whether in private business or the public sphere, seems to be little more than a sophisticated exercise in the combinatorial reassembly of bullshit.
 
-If my class Calling Bullshit in the Age of Big Finance were not imaginary, I’d borrow from UW’s course description because it’s great. And adapt it so it reads:
+If Calling Bullshit in the Age of Big Finance actually made it to a classroom, I’d borrow from UW’s course description because it’s great. And adapt it so it reads:
 
 > **The financial world is awash in bullshit**. Bankers and corporate lawyers are unconstrained by facts. Financial legislation is conducted by bank lobbyists. Credit rating agencies reward bullshit over analytic thought. The financial media elevates bullshit to high art. Financial advisors wink conspiratorially and invite you to join them in seeing through all the bullshit — and take advantage of your lowered guard to bombard you with bullshit of the second order. And dupe you into paying outlandish fees for financial products you don't understand. The majority of financial services activity, whether in retail banking (think Wells Fargo) or investment banking (think Lehman Brothers), seems to be little more than a sophisticated exercise in the combinatorial reassembly of bullshit (think phony bank accounts, mortgage-backed securities, credit default swaps, and sketchy variable-interest mortgages).
 
