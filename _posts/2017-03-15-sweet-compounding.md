@@ -9,7 +9,7 @@ If there is one thing you can do today, right now, to improve your financial pos
 
 Because compounding can make you rich.
 
-The single most important concept in finance and investing is **compounding**. And if you understand it, your financial knowledge will be miles ahead of your peers and you will be on the fast track to FI (financial independence).
+The single most important concept in finance and investing is **compounding**. And if you understand it, your financial knowledge will be miles ahead of your peers and you will be on the fast track to Financial Freedom.
 
 Compounding is why the rich get richer. And it is why you will become financially free.
 
@@ -17,7 +17,7 @@ If your financial advisor is any good, he or she will tell you:
 
 * If you’re in debt, before you do anything [get out of it](http://www.mrmoneymustache.com/2012/04/18/news-flash-your-debt-is-an-emergency/) because debt is dirty, awful, smelly, stinky, rotten and will bury you alive and never let you see the light of financial freedom.
 
-* And then when you’re out of debt, go make your money compound because compounding is how you build wealth. Compounding is the Golden Ticket to financial freedom.
+* And then when you’re out of debt, go make your money compound because compounding is how you build wealth. And because compounding is the Golden Ticket to Financial Freedom.
 
 You don’t hear much about compounding in your mainstream financial newspapers because mainstream financial newspapers are generally more useless than geese poop.
 
@@ -38,7 +38,7 @@ Banks make money from the interest you pay on credit cards, mortgages, student l
 
 The trick is, you want to flip the equation where you’re the one benefitting from compounding, and not getting destroyed by it.
 
-And thus if you’re serious about financial independence and having the freedom to do what you want to do in this world, you’ll make it your mission to understand compounding on a gut level and find where to leverage it (e.g., ultra-low-cost passive index funds) and where to avoid it (e.g., debt).
+And thus if you’re serious about Financial Independence and having the freedom to do what you want to do in this world, you’ll make it your mission to understand compounding on a gut level and find where to leverage it (e.g., ultra-low-cost passive index funds) and where to avoid it (e.g., debt).
 
 You will take the time to study compounding, learn compounding, and become one with compounding.
 
