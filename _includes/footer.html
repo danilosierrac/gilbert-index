@@ -3,15 +3,17 @@
         method="post"
         target="popupwindow"
         onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=gilbertindex', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
-        <p class="rss-subscribe">If you like fresh specialty coffee, you might like a
+
+      <p class="rss-subscribe">If you like fresh specialty coffee, you might like a
        fresh cup of Gilbert Index <a href="https://feedburner.google.com/fb/a/mailverify?uri=gilbertindex&amp;loc=en_US">
          in your inbox</a>:
-         <input type="text" style="width:150px; border: 1px solid black" name="email" placeholder="yourEmail@chocolate.com"/>
+      <span>
+         <input type="text" id="email-box" name="email" placeholder="yourEmail@chocolatePudding.com"/>
          <input type="hidden" value="gilbertindex" name="uri"/>
          <input type="hidden" name="loc" value="en_US"/>
-         <input type="submit" style="border: 1px solid black; background-color: #CC0921; color: #fff" value="Subscribe" />
-        </p>
-
+         <input type="submit" id="submit-input" value="Subscribe" />
+      </span>
+      </p>
    </form>
 
  <p>Questions or comments? You can email me at gilbert.ginsberg@gmail.com.</p>

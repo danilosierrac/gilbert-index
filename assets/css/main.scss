@@ -45,3 +45,39 @@ a:hover {
 footer p {
   text-align: left;
 }
+
+form span {
+  display: flex;
+}
+
+form #email-box, #submit-input {
+  font-family: serif;
+  font-size: 100%;
+  height: 25px;
+  border: 1px solid black;
+  margin: 2px;
+}
+
+#email-box {
+  width: 235px;
+  vertical-align: bottom;
+}
+
+#submit-input {
+  color: #fff;
+  background-color: #CC0921;
+  &:hover {
+    cursor: pointer;
+    opacity: 0.5;
+  }
+}
+
+@media (min-width: 493px) {
+  form span {
+    display: inline;
+    #email-box, #submit-input {
+      margin: auto;
+    }
+  }
+
+}
