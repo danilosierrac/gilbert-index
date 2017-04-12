@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  margin: 8px;
+  max-width: 100%; }
+
+p {
+  line-height: 1.5;
+  text-align: justify; }
+
+#site-container {
+  max-width: 520px;
+  margin: 15px; }
+
+h1, h2 {
+  color: #CC0921; }
+
+li {
+  margin: 5px; }
+
+a {
+  color: #CC0921;
+  text-decoration: none; }
+
+a:hover {
+  border-bottom: 5px solid #CC0921; }
+
+.rss-subscribe {
+  text-align: justify; }
+
+footer p {
+  text-align: left; }
+
+form span {
+  display: flex; }
+
+form #email-box, #submit-input {
+  font-family: serif;
+  font-size: 100%;
+  height: 25px;
+  border: 1px solid black;
+  margin: 2px; }
+
+#email-box {
+  width: 148px;
+  vertical-align: bottom; }
+
+#submit-input {
+  color: #fff;
+  background-color: #CC0921; }
+  #submit-input:hover {
+    cursor: pointer;
+    opacity: 0.5; }
+
+@media (min-width: 493px) {
+  form span {
+    display: inline; }
+    form span #email-box, form span #submit-input {
+      margin: auto; } }
+
+/*# sourceMappingURL=main.css.map */
