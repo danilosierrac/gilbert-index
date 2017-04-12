@@ -6,7 +6,7 @@
   <title id="title">Gilbert Index</title>
   <meta name="description" content="financial independence, personal finance, early retirement, money, lifestyle design">
   <link id="favicon" rel="icon" href="{{site.url}}money-icon.ico" type="image/x-icon">
-  <link rel="canonical" href="{{ site.url}}{{ page.url}}" />
+  <link rel="canonical" href="{{ site.url}}{{ page.url | remove_first: "/"}}" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
