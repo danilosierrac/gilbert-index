@@ -30,7 +30,7 @@ Of course the big assumption here is that you’re a Master Saver and you invest
 
 And one last thing I’ll add: when thinking about your Tropic Mango home, you might want to consider the following: *put yourself in position where you have multiple paths to success*.
 
-What does this mean? For me, this meant choosing to live in Spanish-speaking Countries as this gave me multiple paths to success. How? Because no matter what happened on the income-generating end, I put myself in position to acquire an incredibly valuable Skill, which is Spanish. Therefore even if I wasn’t earning USD or even earning any money at all, I was still enriching myself by being in a physical environment where I could (l)earn a skill—Spanish. And skills pay dividends.
+What does this mean? For me, this meant choosing to live in Spanish-speaking Countries as this gave me multiple paths to success. How? Because no matter what happened on the income-generating end, I put myself in position to acquire an incredibly valuable Skill, particularly for an American, which is Spanish. Therefore even if I wasn’t earning USD or even earning any money at all, I was still enriching myself by being in a physical environment where I could (l)earn a skill—Spanish. And skills pay dividends.
 
 The cool thing about Tropic Mango is it almost has this feature—of putting yourself in position with multiple paths to success—built into it by default. As it's hard to go wrong when you're earning USD and living and working remote in a foreign country—you're exposed to so many opportunities.
 
