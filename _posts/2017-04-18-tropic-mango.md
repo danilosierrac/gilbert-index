@@ -26,7 +26,7 @@ And note: you don't have to make USD, per se. It can be another meaty currency. 
 
 And that’s all there is to Tropic Mango: 1) Live in a Low Cost of Living/High Quality of Life Country and 2) Earn a currency stronger than the local currency. You fill in the details with your creativity, energy, and enthusiasm.
 
-Of course the big assumption here is that you’re a Master Saver and you invest your savings wisely (see you keep your investment costs low and take advantage of the power of compounding) because if you’re not saving you’re not serious about Financial Freedom.
+Of course the big assumption here is that you’re a Master Saver and you invest your savings wisely (see you keep your investment costs low and take advantage of the power of compounding) because saving brings you (Financial) Freedom.
 
 And one last thing I’ll add: when thinking about your Tropic Mango home, you might want to consider the following: *put yourself in position where you have multiple paths to success*.
 
