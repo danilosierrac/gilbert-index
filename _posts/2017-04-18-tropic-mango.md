@@ -10,7 +10,7 @@ And I learned that if you earn US dollars (USD) or another strong currency and l
 
 I name this path the **Tropic Mango Path To Financial Freedom** (or Tropic Mango for short) because you find most of the world’s Low Cost of Living Countries lie between the [Tropic of Cancer and Tropic of Capricorn](http://www.worldatlas.com/aatlas/imagee.htm). And because mangos are delicious, as is Financial Freedom.
 
-**Tropic Mango** looks something this:
+**Tropic Mango** looks something like this:
 
 1: *You live in a Country where the Cost of Living is Low*. Which means a Country where the Cost of Living is a fraction of the cost of the US or Western Europe or Japan. And while money’s important, so is Quality of Life. Thus you decide to live in what I call a **Golden Mango Locale**, which is a Locale where the Cost of Living is Low *and* the Quality of Life is High—the sweet spot. Examples include cities like Bogotá, Colombia and Mexico City, Mexico because they rival any major city in the world (see New York or San Francisco or Paris or Oslo) in terms of opportunities, amenities, culture, food, social life, fun, and yet are a fraction of the cost.
 
