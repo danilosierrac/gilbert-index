@@ -20,16 +20,13 @@ And mind you, your Golden Mango Locale does not have to sit “between the Tropi
 
 For example you might be a self-employed software developer with U.S. and European clients, typing away on your MacBook Pro from the beaches of Costa Rica. Or you might be an employee who runs marketing or sales or operations from your apartment in Lima, Perú for a startup based in San Francisco that directs deposit your bi-weekly salary to your US-located Charles Schwab checking account that gives you unlimited ATM fee rebates and the market exchange rate whenever you withdraw cash—meaning you don’t pay extra for currency conversions. And you use your No International Transaction Fee Credit Card for most purchases in Lima because you get 2% cash back doing so. And you’re not charged extra for using it abroad because it’s a No International Transaction Fee card.
 
-The number of ways to make it work so you earn USD and spend in Golden Mango Locale are
-limitless. And while I have a lot to offer on the subject of working remote, I’ll save it for
-another piece. For now, I’ll just say: it is a very real and very possible option to earn USD
-and live abroad.
+The number of ways to make it work so you earn USD and spend in Golden Mango Locale are limitless. And while I have a lot to offer on the subject of working remote, I’ll save it for another piece. For now, I’ll just say: it is a very real and very possible option to earn USD and live abroad.
 
 And note: you don't have to make USD, per se. It can be another meaty currency. The idea is that the currency that pays you is quite a bit stronger than the local currency so your purchasing power is that of the Hulk, and so you can save—bigly.
 
 And that’s all there is to Tropic Mango: 1) Live in a Low Cost of Living/High Quality of Life Country and 2) Earn a currency stronger than the local currency. You fill in the details with your creativity, energy, and enthusiasm.
 
-Of course the big assumption here is that you’re a Master Saver and you invest your savings wisely (see: you keep your investment costs low and take advantage of the power of compounding) because if you’re not saving you’re not serious about Financial Freedom.
+Of course the big assumption here is that you’re a Master Saver and you invest your savings wisely (see you keep your investment costs low and take advantage of the power of compounding) because if you’re not saving you’re not serious about Financial Freedom.
 
 And one last thing I’ll add: when thinking about your Tropic Mango home, you might want to consider the following: *put yourself in position where you have multiple paths to success*.
 
