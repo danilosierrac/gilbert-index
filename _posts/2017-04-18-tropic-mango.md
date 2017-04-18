@@ -24,7 +24,7 @@ The number of ways to make it work so you earn USD and spend in Golden Berry Loc
 
 And note: you don't have to make USD, per se. It can be another meaty currency. The idea is that the currency that pays you is quite a bit stronger than the local currency so your purchasing power is that of the Hulk, and so you can save—bigly.
 
-And that’s all there is to Tropic Mango: 1) Live in a Low Cost of Living/High Quality of Life Country and 2) Earn a currency stronger than the local currency. You fill in the details with your creativity, energy, and enthusiasm.
+And that’s all there is to Tropic Mango: 1) Live in a Low Cost of Living/High Quality of Life Country and 2) Earn in a currency stronger than the local currency. You fill in the details with your creativity, energy, and enthusiasm.
 
 Of course the big assumption here is that you’re a Master Saver and you invest your savings wisely (see you keep your investment costs low and take advantage of the power of compounding) because saving is what delivers the goods: (Financial) Freedom.
 
