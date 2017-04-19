@@ -22,7 +22,7 @@ For example you might be a self-employed software developer with US and European
 
 The number of ways to make it work so you earn USD and spend in Golden Berry Locale are limitless. And while I have a lot to offer on the subject of working remote, I’ll save it for another piece. For now, I’ll just say: it is a very real and very possible option to earn USD and live abroad.
 
-And note: you don't have to make USD, per se. It can be another meaty currency. The idea is that the currency that pays you is quite a bit stronger than the local currency so your purchasing power is that of the Hulk, and so you can save—bigly.
+And note: you don't have to make USD, per se. It can be another meaty currency. The idea is that whichever currency pays you is quite a bit stronger than the local currency so your purchasing power is that of the Hulk, and so you can save—bigly.
 
 And that’s all there is to Tropic Mango: 1) Live in a Low Cost of Living/High Quality of Life Country and 2) Earn in a currency stronger than the local currency. You fill in the details with your creativity, energy, and enthusiasm.
 
