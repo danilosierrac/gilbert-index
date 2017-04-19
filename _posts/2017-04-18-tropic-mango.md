@@ -32,6 +32,6 @@ And one last thing: when thinking about your Tropic Mango home, you might want t
 
 What does this mean? For me, this meant choosing to live in Spanish-speaking Countries as this gave me multiple paths to success. How? Because no matter what happened on the income-generating end, I put myself in position to acquire an incredibly valuable Skill, particularly for an American, which is Spanish. Therefore even if I wasn’t earning USD or even earning any money at all, I was still enriching myself by being in a physical environment where I could (l)earn a skill—Spanish. And skills pay dividends.
 
-The cool thing about Tropic Mango is it almost has this feature—of putting yourself in position with multiple paths to success—built into it by default. As it's hard to go wrong when you're earning USD and living and working remote in a foreign country—you're exposed to so many opportunities.
+The cool thing about Tropic Mango is it almost has this feature—of putting yourself in position with multiple paths to success—built into it by default. As it's hard to go wrong when you're earning USD and living and working remote in a foreign country—you're exposed to so many opportunities and your [Talent Stack](https://en.wikipedia.org/wiki/Talent_stack) multiplies.
 
 If we're talking meat and potatoes, there are many paths to Financial Freedom. You might be interested in the Tropic Mango Path because it’s a fun one.
