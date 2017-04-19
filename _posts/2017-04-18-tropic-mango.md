@@ -28,7 +28,7 @@ And that’s all there is to Tropic Mango: 1) Live in a Low Cost of Living/High 
 
 Of course the big assumption here is that you’re a Master Saver and you invest your savings wisely (see you keep your investment costs low and take advantage of the power of compounding) because saving is what delivers the goods: (Financial) Freedom.
 
-And one last thing I’ll add: when thinking about your Tropic Mango home, you might want to consider the following: *put yourself in position where you have multiple paths to success*.
+And one last thing: when thinking about your Tropic Mango home, you might want to consider the following: *put yourself in position where you have multiple paths to success*.
 
 What does this mean? For me, this meant choosing to live in Spanish-speaking Countries as this gave me multiple paths to success. How? Because no matter what happened on the income-generating end, I put myself in position to acquire an incredibly valuable Skill, particularly for an American, which is Spanish. Therefore even if I wasn’t earning USD or even earning any money at all, I was still enriching myself by being in a physical environment where I could (l)earn a skill—Spanish. And skills pay dividends.
 
