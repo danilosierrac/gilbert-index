@@ -36,9 +36,8 @@ footer a {
   background-color: #CC0921;
   color: #fff; }
   footer a:hover {
-    padding: 1%;
-    text-transform: uppercase;
-    border-bottom: none; }
+    background-color: #fff;
+    color: #CC0921; }
 
 @media (min-width: 493px) {
   form span {
