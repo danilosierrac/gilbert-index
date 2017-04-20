@@ -42,31 +42,17 @@ footer p {
   text-align: left;
 }
 
-form span {
-  display: flex;
-}
-
-form #email-box, #submit-input {
-  font-family: serif;
-  font-size: 100%;
-  height: 25px;
-  border: 1px solid black;
-  margin: 2px;
-}
-
-#email-box {
-  width: 148px;
-  vertical-align: bottom;
-}
-
-#submit-input {
-  color: #fff;
+footer a {
   background-color: #CC0921;
+  color: #fff;
+
   &:hover {
-    cursor: pointer;
-    opacity: 0.5;
+    padding: 1%;
+    text-transform: uppercase;
+    border-bottom: none;
   }
 }
+
 
 @media (min-width: 493px) {
   form span {
@@ -75,5 +61,4 @@ form #email-box, #submit-input {
       margin: auto;
     }
   }
-
 }
