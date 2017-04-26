@@ -9,7 +9,9 @@ I don't know who said this, but the quote goes something like this:
 
 > <q>*If you want a thing, go find out how much it is and then pay the price*.</q>
 
-And this “thing”—which no matter what has a price—refers to anything. Meaning if you want a piano, go find out what its price is, and then pay it. Or meaning if you want to run a marathon, go find out how much it’ll “cost” (in time and energy and spirit) and if you really want to run a marathon after determining how much it’ll be, then pay the price and you will cross the finish line. Or meaning if you want Financial Freedom, pay the price for it (in time and energy and spirit and saving and investing) and you will be financially free.
+And every thing has a price.
+
+Meaning if you want a piano, go find out what its price is, and then pay it. Or meaning if you want to run a marathon, go find out how much it’ll “cost” (in time and energy and spirit) and if you really want to run a marathon after determining how much it’ll be, then pay the price and you will cross the finish line. Or meaning if you want Financial Freedom, pay the price for it (in time and energy and spirit and saving and investing) and you will be financially free.
 
 Think of all the times you didn’t pay the price. What would your life have been like if you had done so? And now imagine something you want today. And going out into the world and figuring out what's required in order to make the purchase. What would it be like if you pay the price?
 
