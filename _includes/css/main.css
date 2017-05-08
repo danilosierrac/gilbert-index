@@ -39,6 +39,9 @@ footer a {
     background-color: #fff;
     color: #CC0921; }
 
+.promo-code {
+  color: #CC0921; }
+
 @media (min-width: 493px) {
   form span {
     display: inline; }
