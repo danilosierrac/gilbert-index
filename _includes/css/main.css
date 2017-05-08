@@ -27,7 +27,8 @@ a:hover {
   border-bottom: 5px solid #CC0921; }
 
 .rss-subscribe {
-  text-align: justify; }
+  text-align: justify;
+  margin: auto; }
 
 footer p {
   text-align: left; }
