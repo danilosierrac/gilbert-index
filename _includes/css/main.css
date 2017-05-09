@@ -3,10 +3,10 @@
 
 body {
   margin: 8px;
-  max-width: 100%; }
+  max-width: 100%;
+  line-height: 1.5; }
 
 p {
-  line-height: 1.5;
   text-align: justify; }
 
 #site-container {
