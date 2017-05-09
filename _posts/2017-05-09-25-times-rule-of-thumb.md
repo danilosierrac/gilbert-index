@@ -57,15 +57,15 @@ The authors of the Trinity Study analyzed portfolio success rates under a number
 
 * Retirement lasted any 10, 15, 20, 25, or 30 year period between 1926 and 1995
 * Portfolio withdrawal rate was from 3% to 12%
-* And asset allocation was composed 100% stocks, 75% stocks - 25% bonds and vice versa, 50% stocks - 50% bonds, or 100% bonds. 
+* And asset allocation was composed of 100% stocks, 75% stocks - 25% bonds and vice versa, 50% stocks - 50% bonds, or 100% bonds. 
 
 And after running the numbers, an annual withdrawal rate of 3% would have predicted a 100% portfolio success rate (i.e., you wouldn’t have run out of money under any scenario). And 4% not too far behind.
 
 The assumption is, however, that in order for a 4% withdrawal rate to make any sense for you going forward, *future market conditions are somewhat similar to the market conditions the authors studied*.
 
-You might be thinking this is a big assumption. And it is. Because past performance is not a guarantee of future results by any stretch of the imagination. That’s why it’s in one of the Three **Big** Assumptions of the Chocolate Retirement Formula. And that’s why the "25 times" yearly expenses figure is a *rule-of-thumb*, not a hard and fast rule. Therefore, if you plan to structure your financial life around a Chocolate Retirement Number, be aware there's no certainty Market will, over time, trend upward. 
+You might be thinking this is a big assumption. And it is. Because past performance is not a guarantee of future results by any stretch of the imagination. That’s why it’s one of the Three **Big** Assumptions of the Chocolate Retirement Formula. And that’s why the "25 times" yearly expenses figure is a *rule-of-thumb*, not a hard and fast rule. Therefore, if you plan to structure your financial life around a Chocolate Retirement Number, be aware there's no certainty Market will, over time, trend upward. 
 
-And the only way I know how to protect against this is to invest in myself and in skill development because that way, even if something happens to my investment portfolio, I can tap my skills portfolio and do something of value. 
+And the only way I know how to protect against this is to invest in yourself and in skill development because that way, even if something happens to your investment portfolio, you can tap your skills portfolio and do something of value. 
 
 #### Assumption 3: You Live on a 4% Annual Withdrawal Rate
 
@@ -117,7 +117,7 @@ Which means 4% of an amount of money that's equal to 25x your yearly expenses *e
 
 1: *You know how much money you spend in a year*.
 
-This doesn’t mean you have a budget, per se. But it means, you know how much money you spend in a year. Because, in order to calculate your Chocolate Retirement Number, you need to know what your annual expenses are. 
+This doesn’t mean you have a budget, per se. But it means, *you know how much money you spend in a year*. Because, in order to calculate your Chocolate Retirement Number, you need to know what your annual expenses are. 
 
 I think most people don’t know what their output is, which is poor strategy. You’re a business, whether you like to think of yourself in that way or not. And a business that doesn’t know how much money it spends is probably going to fail. 
 
