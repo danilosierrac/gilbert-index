@@ -143,8 +143,8 @@ Caveats aside, when you do reach your Chocolate Retirement Number (25 times your
 
 Notes:
 
-* [Retirement Savings: Choosing a Withdrawal Rate That Is Sustainable](https://incomeclub.co/wp-content/uploads/2015/04/retirement-savings-choosing-a-withdrawal-rate-that-is-sustainable.pdf) by By Philip L. Cooley, Carl M. Hubbard and Daniel T. Walz (original Trinity Study)
-* [Trinity Study](https://en.wikipedia.org/wiki/Trinity_study) (Wikipedia)
-* [Trinity Study update](https://www.bogleheads.org/wiki/Trinity_study_update) (Bogleheads)
-* [The 4% Rule: The Easy Answer to “How Much Do I Need for Retirement?”](http://www.mrmoneymustache.com/2012/05/29/how-much-do-i-need-for-retirement/) (Mr. Money Mustache)
+* [Retirement Savings: Choosing a Withdrawal Rate That Is Sustainable](https://incomeclub.co/wp-content/uploads/2015/04/retirement-savings-choosing-a-withdrawal-rate-that-is-sustainable.pdf) by By Philip L. Cooley, Carl M. Hubbard and Daniel T. Walz (original Trinity Study) <br>
+* [Trinity Study](https://en.wikipedia.org/wiki/Trinity_study) (Wikipedia) <br>
+* [Trinity Study update](https://www.bogleheads.org/wiki/Trinity_study_update) (Bogleheads) <br>
+* [The 4% Rule: The Easy Answer to “How Much Do I Need for Retirement?”](http://www.mrmoneymustache.com/2012/05/29/how-much-do-i-need-for-retirement/) (Mr. Money Mustache) <br>
 * Wealth Meta’s [Retirement Nest Egg Simulator](https://wealthmeta.com/calculator/retirement-nest-egg-simulator) — nifty tool to help you determine if you’ll outlive your retirement savings. 
