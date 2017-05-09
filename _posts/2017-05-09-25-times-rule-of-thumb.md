@@ -79,7 +79,7 @@ Remember, the Trinity trio set out to answer the [questions](https://incomeclub.
 
 And they determined 4% to be considered more or less the “safe withdrawal rate” at which you can pull money annually from your portfolio over a 15 to 30 year period and not deplete your retirement funds.
 
-If you'd like to see this in action, take a look at the following [Retirement Nest Egg Simulator](https://goo.gl/IajRIU) by [Wealth Meta](https://goo.gl/Ox6eAK). This a nifty tool that calculates whether you would outlive your portfolio. 
+If you'd like to see this in action, take a look at the following [Retirement Nest Egg Simulator](https://goo.gl/IajRIU) by [Wealth Meta](https://goo.gl/Ox6eAK). This a nifty tool that calculates whether you would outlive your portfolio, just as the Trinity Study aimed to do. 
 
 Below is a hypothetical retirement plan that consists of:
 
@@ -143,6 +143,7 @@ Caveats aside, when you do reach your Chocolate Retirement Number (25 times your
 
 Notes:
 
+* I am not a financial advisor. And nothing here should be taken as investment advice, but rather as content for informational and educational purposes.
 * [Retirement Savings: Choosing a Withdrawal Rate That Is Sustainable](https://incomeclub.co/wp-content/uploads/2015/04/retirement-savings-choosing-a-withdrawal-rate-that-is-sustainable.pdf) by By Philip L. Cooley, Carl M. Hubbard and Daniel T. Walz (original Trinity Study) <br>
 * [Trinity Study](https://en.wikipedia.org/wiki/Trinity_study) (Wikipedia) <br>
 * [Trinity Study update](https://www.bogleheads.org/wiki/Trinity_study_update) (Bogleheads) <br>
