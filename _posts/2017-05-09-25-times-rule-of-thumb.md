@@ -111,7 +111,7 @@ It’s $10,000. That is, $250,000 x 4% equals $10,000. And what’s $10,000?
 
 *Your yearly expenses*.
 
-Which means 4% of an amount of money that's equal to 25x your yearly expenses *equals* your yearly expenses! And therefore, so long as your money is invested in Market and paying you interest and dividends and compounding, according to the Trinity Study, you can effectively retire at a 4% withdrawal rate. 
+Which means 4% of an amount of money that's equal to 25x your yearly expenses *equals* your yearly expenses! And therefore, so long as your money is invested in Market and paying you interest and dividends and compounding, according to the Trinity Study, you can effectively retire at a 4% withdrawal rate once you've accumulated 25 times your yearly spend. 
 
 ### Two Corollaries of the Chocolate Retirement Number and 4% Safe Withdrawal Rate Rule-of-Thumb
 
