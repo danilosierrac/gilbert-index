@@ -79,16 +79,16 @@ Remember, the Trinity trio set out to answer the [questions](https://incomeclub.
 
 And they determined 4% to be considered more or less the “safe withdrawal rate” at which you can pull money annually from your portfolio over a 15 to 30 year period and not deplete your retirement funds.
 
-If you'd like to see this in action, take a look at the following [Retirement Nest Egg Simulator](https://goo.gl/IajRIU) by [Wealth Meta](https://goo.gl/Ox6eAK). This a nifty tool that calculates whether you would outlive your portfolio, just as the Trinity Study aimed to do. 
+If you'd like to see this in action, take a look at the [Retirement Nest Egg Simulator](https://goo.gl/IajRIU) by [Wealth Meta](https://goo.gl/Ox6eAK). This a nifty tool that calculates whether you would outlive your portfolio, just as the Trinity Study aimed to do. 
 
-Below is a hypothetical retirement plan that consists of:
+The following is a hypothetical retirement plan that consists of:
 
 * A $500,000 Chocolate Retirement Number
 * A 4% annual withdrawal rate, which means you live on $20,000 per year
 * A 50 year retirement
 * And an asset allocation of 80% stock and 20% bond
 
-And the results suggest you'd have an 89.9% chance of outliving your funds. And that's assuming you don't earn *any* more money in retirement. Imagine if you did earn some extra cash. 
+And the results from the nest egg simulation suggest you'd have an 89.9% chance of outliving your funds. And that's assuming you don't earn *any* more money in retirement. Imagine if you did earn some extra cash. 
 
 <!-- WEALTH META CALCULATOR START -->
 <iframe src="https://wealthmeta.com/calculator_iframe/retirement-nest-egg-simulator?lengthOfRetirement=50&retirementSavings=500000&withdrawAmount=20000&withdrawPercent=4&portfolio=custom&stocks=80&bonds=20&cash=0" width="100%" height="500" frameborder="0"></iframe>
@@ -96,6 +96,7 @@ And the results suggest you'd have an 89.9% chance of outliving your funds. And 
 <script type="text/javascript">iFrameResize();</script>
 <!-- WEALTH META CALCULATOR END -->
 
+(If you can't view the results in the page, you can see them [here](https://goo.gl/XEHh4g).)
 
 And to bring this full circle, consider once again the Chocolate Retirement Formula:
 
