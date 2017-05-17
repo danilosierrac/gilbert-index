@@ -26,7 +26,7 @@ The name Social Security stinks because every time you hear it, you think Stalin
 
 And it also doesn’t help that Social Security’s initials SS are the same as that of the [worst group of human beings](https://en.wikipedia.org/wiki/Schutzstaffel) to ever set foot on earth. 
 
-Chew on the idea that Bernie Sanders might have lost the 2016 Democratic primary not because Americans don’t like socialism per se (the U.S. has many popular socialist programs), but because they’re turned off by anything that includes in its name the prefix *social*. And so “Democratic Socialist” was probably a losing strategy, even in a Democratic primary. If Bernie called himself a “Democratic Independent,” perhaps that would have been enough to defeat the “Democrat” Hillary Clinton.  
+Chew on the idea that Bernie Sanders might have lost the 2016 Democratic primary not because Americans don’t like socialism per se (the U.S. has many popular socialist programs), but because they’re turned off by anything that includes in its name the prefix *social*. And so calling himself a “Democratic Socialist” was probably a losing strategy, even in a Democratic primary. If Bernie called himself a “Democratic Independent” instead, perhaps that would have been enough to defeat “Democrat” Hillary Clinton.  
 
 And so I predict that if you and I and the rest of the team change the name of Social Security to something like the...
 
