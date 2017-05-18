@@ -1,0 +1,29 @@
+
+
+<!-- Twitter Card -->
+<meta name="twitter:card"           content="summary">
+<meta name="twitter:url"            content="{{ site.url }}{{ page.url }}">
+<meta name="twitter:title"          content="{{ page.title | default: site.title}}">
+{% if page.url == site.url %}
+    <meta name="twitter:description"    content="{{ site.description }}"> 
+{% else %}
+<meta property="twitter:description"     content="{{ page.excerpt | remove: '<p>' | remove: '</p>' }}" />
+{% endif %}
+<meta name="twitter:site"           content="@gilbertginsberg"> 
+<meta name="twitter:creator"        content="@gilbertginsberg">
+
+<!-- Facebook Open Graph -->
+<meta property="og:locale"        content="en_US">
+<meta property="og:url"           content="{{ site.url }}{{ page.url }}" />
+<meta property="og:type"          content="article" />
+<meta property="og:title"         content="{{ page.title | default: site.title}}" />
+{% if page.url == site.url %}
+    <meta name="og:description"    content="{{ site.description }}"> 
+{% else %}
+<meta property="og:description"   content="{{ page.excerpt | remove: '<p>' | remove: '</p>' }}" />
+{% endif %}
+<meta property="og:site_name"     content="Gilbert Index" />
+<meta property="article:section" content="Article">
+
+    
+
