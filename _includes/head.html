@@ -8,9 +8,9 @@
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:url"           content="{{ site. url}}" />
-  <meta property="og:type"          content="website" />
-  <meta property="og:title"         content="Gilbert Index" />
-  <meta property="og:description"   content="Gibert Index is a column about money, financial independence, personal finance, and life." />
+  <meta property="og:type"          content="article" />
+  <meta property="og:title"         content="{{ page.title }}" />
+  <meta property="og:description"   content="{{ post.excerpt | remove: '<p>' | remove: '</p>' }}" />
 
   <script async src="https://cdn.ampproject.org/v0.js"></script>
   <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
