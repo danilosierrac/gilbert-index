@@ -7,10 +7,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  <meta property="og:url"           content="{{ site. url}}" />
-  <meta property="og:type"          content="article" />
-  <meta property="og:title"         content="{{ page.title }}" />
-  <meta property="og:description"   content="{{ page.excerpt | remove: '<p>' | remove: '</p>' }}" />
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.excerpt | remove: '<p>' | remove: '</p>' }}"> 
+  <meta name="twitter:site" content="@gilbertginsberg"> 
+  <meta property="og:url"           content="{{ site. url}}">
+  <meta property="og:type"          content="article">
+  <meta property="og:title"         content="{{ page.title }}">
+  <meta property="og:description"   content="{{ page.excerpt | remove: '<p>' | remove: '</p>' }}">
+  <meta property="og:site_name" content="Gilbert Index">
 
   <script async src="https://cdn.ampproject.org/v0.js"></script>
   <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
