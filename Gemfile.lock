@@ -195,6 +195,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-sitemap
   tzinfo-data
 
 RUBY VERSION

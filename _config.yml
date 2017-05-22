@@ -16,13 +16,15 @@
 title: Gilbert Index
 email: gilbert.ginsberg@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Gilbert Index is a column about financial independence, personal finance, early retirement, money, and lifestyle design.
+  Gilbert Index is a column about money, financial literacy, and the politics of money.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gilbertginsberg
 github_username:  gilbertginsberg
 url: https://www.gilbertindex.com/
 permalink: /:title
+gems:
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
