@@ -2,34 +2,7 @@
 <html amp lang="en">
   {% include head.html %}
   <body>
-    <amp-analytics type="googleanalytics">
-      <script type="application/json">
-       {
-        "vars": {
-          "account": "UA-93376201-1"
-        },
-        "extraUrlParams": {
-          "cd3": "AMP"
-        },
-        "triggers": {
-          "trackPageview": {
-            "on": "visible",
-            "request": "pageview"
-          },
-          "trackClickOnTwitterLink" : {
-            "on": "click",
-            "selector": "#tweet-link",
-            "request": "social",
-            "vars": {
-              "socialNetwork": "twitter",
-              "socialAction": "tweet",
-              "socialTarget": "https://www.gilbertindex.com"
-            }
-          }
-        }
-      }
-      </script>
-    </amp-analytics>
+     {% include ga.html %}
     <div id="site-container">
     {% include header.html %}
     <main class="page-content" aria-label="Content" role="main">
