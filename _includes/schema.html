@@ -1,0 +1,21 @@
+<script type="application/ld+json">
+     {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "mainEntityOfPage": "{{ page.url }}",
+        "headline": "{{ page.title }}",
+        "datePublished": "{{ page.date }}",
+        "dateModified": "{{ page.date }}",
+        "description": "{{ page.excerpt | remove: '<p>' | remove: '</p>' }}",
+        "author": {
+            "@type": "Person",
+            "name": "Steve Gilbert"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Gilbert Index",
+        }
+    }
+</script>
+
+   
