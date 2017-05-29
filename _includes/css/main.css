@@ -26,22 +26,45 @@ a {
 a:hover {
   border-bottom: 5px solid #CC0921; }
 
-.rss-subscribe {
-  text-align: justify;
-  margin: auto; }
-
 footer p {
   text-align: left; }
 
-footer a {
-  background-color: #CC0921;
-  color: #fff; }
-  footer a:hover {
-    background-color: #fff;
-    color: #CC0921; }
+.social-media a {
+  color: #fff;
+  background-color: #CC0921; }
+  .social-media a:hover {
+    color: #CC0921;
+    background-color: #fff; }
 
 .promo-code {
   color: #CC0921; }
+
+#email-form {
+  display: flex;
+  flex-direction: column; }
+  #email-form .signup {
+    display: flex; }
+    #email-form .signup input {
+      width: 265px;
+      height: 30px;
+      font-size: 148%;
+      border: 1px solid black;
+      padding: 3px;
+      margin-right: 3px; }
+    #email-form .signup a {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 108px;
+      line-height: 1;
+      font-size: 148%;
+      color: #fff;
+      border: 1px solid black;
+      background-color: #CC0921;
+      transition: opacity .75s; }
+      #email-form .signup a:hover {
+        opacity: .5;
+        border-bottom: none; }
 
 @media (min-width: 493px) {
   form span {

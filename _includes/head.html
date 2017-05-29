@@ -1,5 +1,8 @@
 <head>
   <meta charset="utf-8">
+  <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+  <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <title id="title">Gilbert Index</title>
   <meta name="description" content="{{ page.excerpt | remove: '<p>' | remove: '</p>' }}">
@@ -11,8 +14,6 @@
   <link rel="canonical" href="{{ site.url}}{{ page.url | remove_first: "/"}}" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   {% include social-media-metadata.html %}
-  <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
-  <script async src="https://cdn.ampproject.org/v0.js"></script>
   <style amp-custom>
   {% include css/main.css %}
   </style>
