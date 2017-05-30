@@ -60,9 +60,8 @@ footer p {
     display: flex;
 
       input {
-        width: 265px;
         height: 30px;
-        font-size: 148%;
+        font-size: 125%;
         border: 1px solid black;
         padding: 3px;
         margin-right: 3px;
@@ -72,9 +71,10 @@ footer p {
         display: flex;
         justify-content: center;
         align-items: center;
-        width: 108px;
+        padding-right: 2px;
+        padding-left: 2px;
         line-height: 1;
-        font-size: 148%;
+        font-size: 125%;
         color: #fff;
         border: 1px solid black;
         background-color: #CC0921;
@@ -83,6 +83,10 @@ footer p {
         &:hover {
           opacity: .5;
           border-bottom: none;
+        }
+
+        &:active {
+          transform: translateY(2px);
         }
       }
   } 
