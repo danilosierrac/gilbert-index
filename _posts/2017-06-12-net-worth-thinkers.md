@@ -33,7 +33,7 @@ You might be saying to yourself: but what if I earn $250,000 and only spend $25,
 
 And I would respond: it proves you should be focused on Saving and Practicing Frugality, which is what you’re doing when you earn $250k and spend $25k. And so it proves the virtues of Net Worth Thinking because Saving and Practicing Frugality are what you get when you adopt Net Worth Thinking. That’s the whole deal.
 
-Income Thinking exists because the tax system is based around Income and because businesses want you concerned with Income. And most people are employed by businesses, i.e., employees.
+Income Thinking exists because the tax system is based around Income and because businesses want you concerned with Income. And most people are employed by businesses, i.e., are employees.
 
 A company wants you to want higher and higher pay, year after year because it keeps you working like a motivated hamster moving and twitching its little body, but going nowhere, on a running wheel. A company wants you thinking: “Next year I can make six digits.” A company does not want you thinking: “If I save 75% of my Income this year and next year, my Net Worth will be large enough so I can quit this job the following year, never having even earned six digits, and then do what I really want to do.”
 
@@ -49,7 +49,7 @@ Don’t play the Income Game. The Income Game—where you’re worried about wha
 
 Income is important only if you’re Saving it and Not Going into Debt. And a High Income is useless if you don’t know how much [money you need to retire](https://www.gilbertindex.com/25-times-rule-of-thumb/), meaning you don’t know what Net Worth you need to never work again.
  
-Income Thinking is also self-limiting because it presupposes you must earn an "Income," something Net Worth Thinkers know isn't true. The game is Financial Freedom and in this game you need money. And that money doesn't have to come from an Income or Salary as traditionally envisioned. You can earn money from multiple sources all at once: a side project, a job, a source of passive income, dividends and interest, and on. This is an entrepreneurial mindset, and a state of mind Net Worth Thinking puts you in. 
+Income Thinking is also self-limiting because it presupposes you must earn an "Income," something Net Worth Thinkers know isn't true. The game is Financial Freedom and in this game you need money. And that money doesn't have to come from an Income or Salary as traditionally envisioned. You can earn money from multiple sources: a side project, a job, a source of passive income, dividends and interest, and on. This is an entrepreneurial mindset, and a state of mind Net Worth Thinking puts you in. 
 
 The bottom line: if you become a Net Worth Thinker, you put yourself in better position to reach Financial Freedom.
  
