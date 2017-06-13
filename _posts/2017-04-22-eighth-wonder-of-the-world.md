@@ -8,6 +8,3 @@ permalink: /eighth-wonder-of-the-world/
 Compounding is magic.
 
 And if you'd like to learn more about Compounding, you might be interested in an [article](https://goo.gl/tOBkIE) I wrote over at [Wealth Meta](https://goo.gl/Ox6eAK) titled *The Eighth Wonder of the World - Compounding*. 
-
-
-<a href="https://www.bloglovin.com/blog/18830565/?claim=mupdy4usz2f">Follow my blog with Bloglovin</a>
