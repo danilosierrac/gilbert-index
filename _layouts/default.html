@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html amp lang="en">
+<html>
   {% include head.html %}
   <body>
-     {% include ga.html %}
     <div id="site-container">
     {% include header.html %}
     <main class="page-content" aria-label="Content" role="main">
@@ -13,9 +12,9 @@
      <hr>
     {% include footer.html %}
  
-    <a href="{{ site.url }}win-wins.html">Win-Wins</a> |
-    <a href="{{ site.url }}books.html">Books</a> |
-    <a href="{{ site.url }}disclaimer.html">Disclaimer</a> 
+    <a href="{{ "win-wins.html" | prepend: site.baseurl }}">Win-Wins</a> |
+    <a href="{{ "books.html" | prepend: site.baseurl }}">Books</a> |
+    <a href="{{ "disclaimer.html" | prepend: site.baseurl }}">Disclaimer</a> 
     <p>&copy; <span id="year"></span> Gilbert Index. All Rights Reserved</p>
    </div>
    <script>
