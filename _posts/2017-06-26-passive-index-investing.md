@@ -31,6 +31,6 @@ If you'd like to learn more about Passive Index Investing, a perhaps more approa
 
 * <a href="https://www.amazon.com/gp/product/1118921283/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118921283&linkCode=as2&tag=gilbertindex-20&linkId=e9f9b8abd63e9325b6c6fd489b6ca8a4">The Bogleheads' Guide to Investing</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gilbertindex-20&l=am2&o=1&a=1118921283" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-And as you read and poke the poop, consider one last sentiment Buffett expressed in his shareholder letter:
+And as you read and [poke the poop](http://www.nytimes.com/2013/12/29/business/the-merchant-of-just-be-happy.html), consider one last sentiment Buffett expressed in his shareholder letter:
 
 > *The bottom line: When trillions of dollars are managed by Wall Streeters charging high fees, it will usually be the managers who reap outsized profits, not the clients. Both large and small investors should stick with low-cost index funds.*
