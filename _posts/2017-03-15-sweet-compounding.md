@@ -11,9 +11,15 @@ Because compounding can make you rich.
 
 The single most important concept in finance and investing is **compounding**. And if you understand it, your financial knowledge will be miles ahead of your peers and you will be on the fast track to Financial Freedom.
 
-Compounding is why the rich get richer. And it is why you will become financially free.
+Compounding is why the rich get richer. And it is why you will become financially free because compounding does this to your money:
 
-If your financial advisor is any good, he or she will tell you:
+<!-- WEALTH META CALCULATOR START -->
+<iframe src="https://www.wealthmeta.com/calculator_iframe/compound-interest-calculator?principal=150000&interest=7&term=30&contribution=30000&contributionfreq=annual&inflation=" width="100%" height="500" frameborder="0"></iframe>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.10/iframeResizer.js"></script>
+<script type="text/javascript">iFrameResize();</script>
+<!-- WEALTH META CALCULATOR END -->
+
+And if your financial advisor is any good, he or she will tell you:
 
 * If you’re in debt, before you do anything [get out of it](http://www.mrmoneymustache.com/2012/04/18/news-flash-your-debt-is-an-emergency/) because debt is dirty, awful, smelly, stinky, rotten and will bury you alive and never let you see the light of financial freedom.
 
