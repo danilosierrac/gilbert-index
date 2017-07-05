@@ -98,6 +98,11 @@ footer p {
   } 
 }
 
+.bottom-page {
+  display: flex;
+  justify-content: space-between;
+}
+
 @media (min-width: 493px) {
   form span {
     display: inline;
