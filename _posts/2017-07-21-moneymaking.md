@@ -11,7 +11,7 @@ I’m an Alternative Moneymaker, meaning someone who earns money in non-traditio
 
 * Beach club bellboy <span style="color:#CC0921">[job]</span>
 * Babysitter <span style="color:#0366D6">[gig]</span>
-* Lifeguard   <span style="color:#CC0921">[job]</span> and <span style="color:#0366D6">[gig]</span>
+* Lifeguard <span style="color:#CC0921">[job]</span> and <span style="color:#0366D6">[gig]</span>
 * Dog waste management servicer (aka Pooper Scooper)  <span style="color:#CC0921">[job]</span>
 * Pizza delivery man <span style="color:#CC0921">[job]</span>
 
@@ -27,6 +27,7 @@ I’m an Alternative Moneymaker, meaning someone who earns money in non-traditio
 
 * Executive Assistant to CEO <span style="color:#CC0921">[job]</span>
 * Dog walker <span style="color:#0366D6">[gig]</span>
+* Lifeguard  <span style="color:#0366D6">[gig]</span>
 * Digital marketing intern <span style="color:#CC0921">[job]</span>
 * English tutor in Colombia <span style="color:#FFA500">[self-employed]</span>
 * Founder of Cup of <span lang="es">Inglés</span>, an English-conversation group in Colombia <span style="color:#FFA500">[self-employed]</span>
