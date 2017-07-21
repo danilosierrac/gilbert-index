@@ -11,13 +11,13 @@ I’m an Alternative Moneymaker, meaning someone who earns money in non-traditio
 
 * Beach club bellboy <span style="color:#CC0921">[job]</span>
 * Babysitter <span style="color:#0366D6">[gig]</span>
-* Lifeguard   <span style="color:#CC0921">[job]</span>
+* Lifeguard   <span style="color:#CC0921">[job]</span> and <span style="color:#0366D6">[gig]</span>
 * Dog waste management servicer (aka Pooper Scooper)  <span style="color:#CC0921">[job]</span>
 * Pizza delivery man <span style="color:#CC0921">[job]</span>
 
 ### College
 
-* Lifeguard <span style="color:#CC0921">[job]</span>
+* Lifeguard <span style="color:#CC0921">[job]</span> and <span style="color:#0366D6">[gig]</span>
 * Epidemiologist Assistant at WI Department of Health Services <span style="color:#CC0921">[job]</span>*
 * $5,000 dollar scholarship to intern in Latin America <span style="color:#6E5494">[scholarship]</span>
 * Research assistant to a study on mindfulness meditation <span style="color:#CC0921">[job]</span>
