@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mortgage is Debt"
+description: 'I'm talking to an old friend for the first time in a long time. We dive right into a lively banter and start getting caught up. The conversation moves on to our families, and I ask my friend how his brother is doing. And he says (paraphrased):'
 date:   2017-03-06
 permalink: /mortgage-is-debt/
 ---
