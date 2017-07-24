@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Money Athletes"
+description: 'My name is Gilbert and I’m a money athlete.'
 date:   2017-03-07
 permalink: /money-athletes/
 ---

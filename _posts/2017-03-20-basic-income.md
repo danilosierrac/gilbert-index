@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Basic Income"
+description: 'Imagine you were to receive a direct deposit into your bank account for an extra $2,000 per month. And you receive this sum for no other reason than the good fortune of being a U.S. resident. What would your life be like?'
 date:   2017-03-20
 permalink: /basic-income/
 ---

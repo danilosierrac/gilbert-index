@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Master Negotiator"
+description: 'If you want to be a Master Negotiator, the single best thing you can do is save your money.'
 date:   2017-06-21
 permalink: /master-negotiator/
 ---

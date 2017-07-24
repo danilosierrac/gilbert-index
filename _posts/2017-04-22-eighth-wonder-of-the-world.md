@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Eighth Wonder of The World"
+description: 'Compounding is magic.'
 date:   2017-04-22
 permalink: /eighth-wonder-of-the-world/
 ---

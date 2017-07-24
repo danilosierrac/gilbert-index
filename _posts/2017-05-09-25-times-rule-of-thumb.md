@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  '"25 Times" Rule-of-Thumb: How Much Money You Need to Retire'
+description: 'How much money do you need to retire?'
 date:   2017-05-09
 permalink: /25-times-rule-of-thumb/
 ---

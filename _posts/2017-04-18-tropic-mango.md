@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Tropic Mango"
+description: 'Many people call me Gilbert. I’m from New Jersey originally. And I went to college in the Midwest. And I moved to South America after graduating from that college in the Midwest.'
 date:   2017-04-18
 permalink: /tropic-mango/
 ---
