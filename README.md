@@ -1,3 +1,3 @@
-[![Greenkeeper badge](https://badges.greenkeeper.io/gilbertginsberg/recipe-box.svg)](https://greenkeeper.io/)
+[![Greenkeeper badge](https://badges.greenkeeper.io/gilbertginsberg/gilbert-index.svg)](https://greenkeeper.io/)
 
 # Gilbert Index
