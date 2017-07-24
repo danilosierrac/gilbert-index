@@ -2,7 +2,7 @@
 layout: post
 title:  "Time Value of Money"
 date:   2017-03-31
-description: 'If you understand the Time Value of Money, you will be a smarter investor.'
+description: "If you understand the Time Value of Money, you will be a smarter investor."
 permalink: /time-value-of-money/
 ---
 

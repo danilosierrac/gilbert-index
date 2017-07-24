@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pay The Price"
-description: 'If you want something, go find out how much it "costs" and pay the price.'
+description: "If you want something, go find out how much it "costs" and pay the price."
 date:   2017-04-26
 permalink: /pay-the-price/
 ---

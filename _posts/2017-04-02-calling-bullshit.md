@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Calling Bullshit"
-description: 'Do you consider yourself a discerning person when it comes to the financial services industry?'
+description: "Do you consider yourself a discerning person when it comes to the financial services industry?"
 date:   2017-04-02
 permalink: /calling-bullshit/
 ---

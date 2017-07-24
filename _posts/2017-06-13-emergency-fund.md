@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Emergency Fund"
-description: 'Where do you house your emergency fund? As in where do you house your cash reserve that’ll cover anywhere from three to six months of expenses?'
+description: "Where do you house your emergency fund? As in where do you house your cash reserve that’ll cover anywhere from three to six months of expenses?"
 date:   2017-06-13
 permalink: /emergency-fund/
 ---

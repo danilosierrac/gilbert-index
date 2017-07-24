@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Net Worth Thinkers vs Income Thinkers"
-description: 'There are two types of money thinkers: the Net Worth Thinker and the Income Thinker. One is characteristic of a Financially Free person or someone on their way to Financial Freedom. The other, that of a Sucker. I.e., most American consumers.'
+description: "There are two types of money thinkers: the Net Worth Thinker and the Income Thinker. One is characteristic of a Financially Free person or someone on their way to Financial Freedom. The other, that of a Sucker. I.e., most American consumers."
 date:   2017-06-12
 permalink: /net-worth-thinkers-vs-income-thinkers/
 ---

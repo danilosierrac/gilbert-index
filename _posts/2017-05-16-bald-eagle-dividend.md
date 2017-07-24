@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bald Eagle Dividend"
-description: 'Today I tell you what the two biggest problems are with Social Security.'
+description: "Today I tell you what the two biggest problems are with Social Security."
 date:   2017-05-16
 permalink: /bald-eagle-dividend/
 ---

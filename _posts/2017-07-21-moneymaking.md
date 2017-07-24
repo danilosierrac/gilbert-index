@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Moneymaking"
-description: 'I’m an Alternative Moneymaker, meaning someone who earns money in non-traditional ways. Think of “traditional” as working, say, a traditional office job. And if you’re an Alternative Moneymaker, chances are you’ve made money in a number of diverse, nonlinear, non sequitur ways. Which is how I’ve made money. Here’s the list:'
+description: "I’m an Alternative Moneymaker, meaning someone who earns money in non-traditional ways. Think of “traditional” as working, say, a traditional office job. And if you’re an Alternative Moneymaker, chances are you’ve made money in a number of diverse, nonlinear, non sequitur ways. Which is how I’ve made money. Here’s the list:"
 date:   2017-07-21
 permalink: /moneymaking/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Passive Index Investing"
-description: 'I wrote a piece breaking down the basic elements of Passive Index Investing over at Wealth Meta.'
+description: "I wrote a piece breaking down the basic elements of Passive Index Investing over at Wealth Meta."
 date:   2017-06-26
 permalink: /passive-index-investing/
 ---
