@@ -109,7 +109,7 @@ Ruth's always wanted to see Tokyo too, so we've booked to go this spring in the 
 
 ---
 
-Here's where you can find Claire and her work on online:
+Here's where you can find Claire and her work online:
 
 * [Want Less](http://www.wantless.co.uk/)
 * [Simplicity Voices](http://simplicityvoices.com/)
