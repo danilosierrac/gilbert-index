@@ -4,7 +4,7 @@
 <meta name="twitter:card"               content="summary">
 <meta name="twitter:url"                content="{{ site.url }}{{ page.url }}">
 {% if page.image %}
-    <meta name="twitter:image:src" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}" />
+    <meta name="twitter:image:src" content="{{ page.image }}" />
 {% else %}
     <meta name="twitter:image:src" content="{{ site.image | prepend: site.baseurl | prepend: site.url }}" />
 {% endif %}
@@ -18,7 +18,7 @@
 <meta property="og:url"             content="{{ site.url }}{{ page.url }}" />
 <meta property="og:type"            content="article" />
 {% if page.image %}
-    <meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:image" content="{{ page.image }}" />
 {% else %}
     <meta property="og:image" content="{{ site.image | prepend: site.baseurl | prepend: site.url }}" />
 {% endif %}
