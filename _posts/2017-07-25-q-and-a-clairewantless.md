@@ -2,7 +2,7 @@
 layout: post
 title:  "A Q&A with Claire WantLess"
 image: https://res.cloudinary.com/gilbertindex/image/upload/v1500907164/claire_wantless.jpg
-description: "An interview with Claire WantLess, the creator of Want Less and Simplicity Voices"
+description: "A Q&A with Claire WantLess, the creator of Want Less and Simplicity Voices"
 date:   2017-07-25
 permalink: /q&a-with-claire-wantless/
 ---
