@@ -46,7 +46,7 @@ So I see the phrase 'want less' as being about building a good life with a few s
 For me, that's been about slowing down: getting rid of clutter, carving out more breaks in my day, spending less time shopping for shiny new things and more time with family or friends. Saving money has been an added bonus.
 
 
-**3: What’s the story behind WantLess? As in what steps led to your starting the blog? And would you also talk a bit about what steps led to your other site Simplicity Voices?**
+**3: What’s the story behind Want Less? As in what steps led to your starting the blog? And would you also talk a bit about what steps led to your other site Simplicity Voices?**
 
 I started my blog Want Less as a way of documenting the different things I was trying to do to slow down, chill out and save money. Its strapline is 'Ditching stuff, beating debt, getting a life', and that's pretty much what it's all about.
 
