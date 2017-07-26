@@ -6,10 +6,8 @@ description: "A Q&A with Claire WantLess, the creator of Want Less and Simplicit
 date:   2017-07-25
 permalink: /q&a-with-claire-wantless/
 ---
-<figure>
-  <img src="{{ page.image }}" alt="Claire WantLess"> 
-  <figcaption>Claire WantLess</figcaption>
-</figure>
+
+![Claire WantLess]({{ page.image }})
 
 Claire aka Claire WantLess ([@wantlessblog](https://twitter.com/@wantlessblog)) is the creator of [Want Less](http://www.wantless.co.uk/) and [Simplicity Voices](http://simplicityvoices.com/).
 
