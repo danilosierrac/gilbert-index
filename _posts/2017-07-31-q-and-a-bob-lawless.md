@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Q&A with Bob Lawless"
+title:  "A Q&amp;A with Bob Lawless"
 image: "https://res.cloudinary.com/gilbertindex/image/upload/c_fit,w_350/v1501251738/bob_lawless_faroto.jpg"
 description: "A Q&A with Bob Lawless, the Max L. Rowe Professor of Law and co-director of the Program on Law, Behavior and Social Science at the University of Illinois Urbana-Champaign."
 date:   2017-07-31
