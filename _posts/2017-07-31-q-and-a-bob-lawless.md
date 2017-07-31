@@ -9,7 +9,7 @@ permalink: /q-and-a-with-bob-lawless/
 
 ![Robert Lawless]({{ page.image }}) 
 
-[Credit Slips](https://goo.gl/7FZTdb) is an influential blog that takes a deep dive into the world of debt. It’s run and authored by a diverse group of academics, ranging from law professors to sociology professors, whose research explores all things debt: bankruptcy, foreclosure, student loans, consumer finance, and on. The group uses Credit Slips as a space to share their work and insights with you. And because debt is determined to wiggle itself into your financial underpants at some point in your life, it’ll pay dividends to know a thing or two about related debt issues—which is where Credit Slips come in.  
+[Credit Slips](https://goo.gl/7FZTdb) is an influential blog that takes a deep dive into the world of debt. It’s run and authored by a diverse group of academics, ranging from law professors to sociology professors, whose research explores all things debt: bankruptcy, foreclosure, student loans, consumer finance, and on. The group uses Credit Slips as a space to share their work and insights with you. And because debt is determined to wiggle itself into your financial underpants at some point in your life, it’ll pay dividends to know a thing or two about related debt issues—which is where Credit Slips comes in.  
 
 [Bob Lawless](https://law.illinois.edu/faculty-research/faculty-profiles/robert-m-lawless/), law professor at the University of Illinois Urbana-Champaign, administers the blog. And the other day I asked Bob a few questions. 
 
@@ -23,7 +23,7 @@ In the Q&A we cover:
 Enjoy! 
 
 ---
- 
+
 **1: Hi! Would you state your name and what you do?**
  
 My name is Bob Lawless. I am the Max L. Rowe Professor of Law and co-director of the [Program on Law, Behavior & Social Science](https://law.illinois.edu/faculty-research/specialty-programs/law-behavior-and-social-science/) at the University of Illinois College of Law. I also administer the Credit Slips blog.
