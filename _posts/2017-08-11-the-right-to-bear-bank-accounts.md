@@ -13,7 +13,7 @@ Imagine your bank closed your checking account. Kicked you out. Said, “we no l
 
 What would you do?
 
-You’d probably first ask: “why are you closing my account?”?
+You’d probably first ask: “why are you closing my account?”
 
 To which, the bank might respond: “We’re under no obligation to provide a reason. We can close your account at any time and for any reason, terms you agreed to when you opened up your account. This is clearly stated in the account agreement. Duh.”
 
