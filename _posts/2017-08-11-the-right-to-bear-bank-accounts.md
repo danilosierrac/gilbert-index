@@ -47,6 +47,6 @@ That should change.
 
 If you have a right to bear arms, you should have a right to bear a bank account. 
 
-In the meantime, make sure you have multiple checking and savings accounts open because this reduces the downside risk of any one bank closing your account. 
+In the meantime, make sure you have multiple checking and savings accounts open because this reduces the downside of any one bank closing your account. 
 
 Photo by [Thomas Lefebvre](https://unsplash.com/@imthebear) on Unsplash.
