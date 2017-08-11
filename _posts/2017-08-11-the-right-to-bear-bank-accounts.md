@@ -17,7 +17,7 @@ You’d probably first ask: “why are you closing my account?”
 
 To which, the bank might respond: “We’re under no obligation to provide a reason. We can close your account at any time and for any reason, terms you agreed to when you opened up your account. This is clearly stated in the account agreement. Duh.”
 
-Banks can actually do this.
+In the United States, where I'm from, banks can actually do this.
 
 I know someone who had a checking account with Charles Schwab. Schwab sent the person a letter stating that Schwab is exercising its right to close down the account in a month. The guy called to find out why, but the emotionless Schwab rep reiterated something along the lines of: “*We can close your account at any time and for any reason, terms you agreed to when you opened up your account. This is clearly stated in the account agreement. Duh.*”
 
