@@ -29,7 +29,7 @@ Next, I assume you’d go to another bank and open up a new account. No problem.
 
 But let’s take this ride to its logical conclusion: 
 
-If banks can drop you as a customer for no reason, what would you do if every bank you were to go to closes down your account? What would you do if banks collectively said, “thanks, but we do not want to hold onto your money in our money safes?” 
+If banks can drop you as a customer for any reason they please, what would you do if every bank you were to go to closes down your account? What would you do if banks collectively said, “thanks, but we do not want to hold onto your money in our money safes?” 
 
 Uhhhh.
 
