@@ -8,6 +8,6 @@
   <a href="https://www.facebook.com/dialog/share?app_id=161531164410628
   &display=popup&name={{ site.title}}: {{ page.title }}
   &description={{ page.description }}
-  &url={{ page.url }}" title="Click to share on Facebook">Facebook
+  &url={{ site.url}}{{ page.url | remove_first: "/"}}" title="Click to share on Facebook">Facebook
   </a>
 </p>
